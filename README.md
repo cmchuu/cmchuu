@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @cmchuu
+- 👀 I’m interested in full-stack development for both websites and applications.
+- 🌱 I’m currently learning more about backend development, my weakest point.
+- 💞️ I’m looking to contribute to some repositories in the future to build my development portfolio.
+- 💻 I'm working on a couple projects at the moment, but most of them are in private repositories due to the nature of them. I may make some public projects soon!
+- 📫 You can reach me via my discord @cmchuu
